@@ -14,12 +14,12 @@ Save this file, and your live website will automatically update within 4-6 secon
 [ANNOUNCEMENT_BANNER: 🔥 SPRING TRANSFORMATION COHORT: Only 4 1-on-1 coaching spots remaining for this month!]
 
 ## [HERO_SECTION]
-[BADGE: 🏆 #1 Online Calisthenics Coaching Protocol]
-[TITLE: MASTER YOUR BODY WEIGHT. UNLOCK SUPERNATURAL STRENGTH.]
+[BADGE: 🏆 Hi hello]
+[TITLE: YOUR BODY WEIGHT. UNLOCK SUPERNATURAL STRENGTH.]
 [SUBTITLE: Ditch the gym membership and joint-destroying weights. Transform your physique through elite street workout & gymnastics strength—in under 45 minutes a day, anywhere you travel.]
 [PRIMARY_CTA: Apply For 1-on-1 Coaching]
 [SECONDARY_CTA: Watch Free 5-Min Protocol]
-[HERO_IMAGE_URL: https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&w=1200&auto=format&fit=crop]
+[HERO_IMAGE_URL: https://plus.unsplash.com/premium_photo-1663036880678-62ae2e87c4c1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Zml0bmVzcyUyMG1hbnxlbnwwfHwwfHx8MA%3D%3D]
 [HERO_IMAGE_ALT: Athlete performing iron cross gymnastic ring hold outdoors at sunset]
 - **Stat_1_Value**: 550+
 - **Stat_1_Label**: Clients Transformed
