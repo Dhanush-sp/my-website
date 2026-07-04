@@ -1,0 +1,130 @@
+================================================================================
+VANCE CALISTHENICS ACADEMY - WEBSITE CONTENT MANAGEMENT FILE (content.txt)
+================================================================================
+INSTRUCTIONS FOR CREATOR / SITE OWNER:
+You do not need any coding knowledge to edit your website!
+Simply change the text inside brackets [LIKE THIS] or bullet point text after '- **Label**:'.
+Save this file, and your live website will automatically update within 4-6 seconds!
+================================================================================
+
+## [META_SETTINGS]
+[SITE_NAME: VANCE CALISTHENICS ACADEMY]
+[COACH_NAME: Alex Vance]
+[SPECIALTY: Solo Creator & Elite Body Mastery Coach]
+[ANNOUNCEMENT_BANNER: 🔥 SPRING TRANSFORMATION COHORT: Only 4 1-on-1 coaching spots remaining for this month!]
+
+## [HERO_SECTION]
+[BADGE: 🏆 #1 Online Calisthenics Coaching Protocol]
+[TITLE: MASTER YOUR BODY WEIGHT. UNLOCK SUPERNATURAL STRENGTH.]
+[SUBTITLE: Ditch the gym membership and joint-destroying weights. Transform your physique through elite street workout & gymnastics strength—in under 45 minutes a day, anywhere you travel.]
+[PRIMARY_CTA: Apply For 1-on-1 Coaching]
+[SECONDARY_CTA: Watch Free 5-Min Protocol]
+[HERO_IMAGE_URL: https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&w=1200&auto=format&fit=crop]
+[HERO_IMAGE_ALT: Athlete performing iron cross gymnastic ring hold outdoors at sunset]
+- **Stat_1_Value**: 550+
+- **Stat_1_Label**: Clients Transformed
+- **Stat_2_Value**: 98.4%
+- **Stat_2_Label**: First-Muscle-Up Success Rate
+- **Stat_3_Value**: 15+ Yrs
+- **Stat_3_Label**: Coach Body Mastery Experience
+
+## [AS_SEEN_IN]
+[HEADING: RECOMMENDED BY TOP FITNESS & LIFESTYLE PLATFORMS]
+- **Brand_1**: Men's Health
+- **Brand_2**: Gymshark Athletes
+- **Brand_3**: Timeless Fitness
+- **Brand_4**: Street Workout Global
+- **Brand_5**: Bodyweight Pro
+
+## [PAIN_POINTS_SECTION]
+[BADGE: THE PROBLEM WITH TRADITIONAL GYMS]
+[TITLE: Are You Tired of Heavy Lifting That Triggers Chronic Joint Pain?]
+[SUBTITLE: Most fitness enthusiasts get stuck in a plateau of stiff muscles, lower back aches, and zero real-world athletic body control.]
+- **Pain_1_Title**: Stiff, Robotic Gym Strength
+- **Pain_1_Desc**: You bench press and squat heavy, but feel sluggish, inflexible, and ache every morning when you get out of bed.
+- **Pain_2_Title**: Time-Consuming 2-Hour Gym Commutes
+- **Pain_2_Desc**: Waiting for equipment, packing gym bags, and sitting in traffic kills your productivity as a busy professional or creator.
+- **Pain_3_Title**: Zero Relative Body Strength & Skills
+- **Pain_3_Desc**: Despite lifting heavy weights, you still struggle to hold a clean freestanding handstand or perform a effortless front lever.
+
+## [HOW_IT_WORKS_SECTION]
+[BADGE: THE 3-STEP VANCE PROTOCOL]
+[TITLE: From Zero Skills to Effortless Body Mastery in 90 Days]
+[SUBTITLE: Our science-backed calisthenics progression framework adapts to your current level—whether you are working toward your first clean pull-up or a full planche.]
+- **Step_1_Title**: Step 1: Joint Armor & Scapular Decompression
+- **Step_1_Desc**: We bulletproof your wrists, elbows, and rotator cuffs while unlocking elite shoulder mobility during week 1 to 3.
+- **Step_2_Title**: Step 2: Neuromuscular Leverage Activation
+- **Step_2_Desc**: Learn the physics of body positioning. Master progressive variations for muscle-ups, handstands, and levers safely.
+- **Step_3_Title**: Step 3: Hypertrophy & Skill Integration
+- **Step_3_Desc**: Combine high-tension calisthenics holds with explosive bodyweight reps to carve a lean, functional, gymnast physique.
+
+## [ABOUT_COACH_SECTION]
+[BADGE: MEET YOUR MENTOR]
+[TITLE: I Built This Academy Because Traditional Gyms Failed My Joints]
+[BIO_TEXT: Hey, I am Alex Vance. Ten years ago, I suffered two torn shoulder labrums from heavy barbell lifting. Doctors told me I would never press overhead again. I left the iron behind and immersed myself in Olympic rings and street calisthenics. Not only did my joints heal 100%, but I built more functional muscle and athletic control than ever before. Now, I dedicate my life to helping high-performers achieve ultimate physical freedom.]
+[COACH_IMAGE_URL: https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?q=80&w=1000&auto=format&fit=crop]
+[COACH_IMAGE_ALT: Coach Alex Vance demonstrating intense focus and calisthenics physique]
+- **Credential_1**: Certified Calisthenics Specialist & Biomechanics Coach
+- **Credential_2**: Featured Speaker at Global Street Workout Summit 2024
+- **Credential_3**: Creator of the 90-Day Ring Mastery Blueprint
+
+## [TESTIMONIALS_SECTION]
+[BADGE: VERIFIED SOCIAL PROOF]
+[TITLE: Real Creators & Professionals. Unstoppable Transformations.]
+[SUBTITLE: See how our students leveled up their physique, energy, and body control without setting foot inside a crowded gym.]
+[TESTIMONIAL_IMAGE_URL: https://images.unsplash.com/photo-1517466787929-bc90951d0974?q=80&w=386&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D]
+- **Review_1_Name**: Marcus Vance (Software Engineer & Creator)
+- **Review_1_Result**: Unlocked strict muscle-up in 4 weeks & lost 14 lbs of body fat!
+- **Review_1_Text**: "Sitting at a desk 10 hours a day destroyed my lower back. Alex's protocol gave me the mobility of a 20-year-old and my physique has never looked sharper. The daily feedback via WhatsApp is unmatched."
+- **Review_2_Name**: Elena Rostova (Online Brand Strategist)
+- **Review_2_Result**: First freestanding handstand hold at age 34!
+- **Review_2_Text**: "I tried yoga and standard gym trainers for years with zero progress on handstands. Alex diagnosed my wrist mobility bottleneck on Day 1. Now I train anywhere on the road while traveling!"
+- **Review_3_Name**: David K. (Executive Founder)
+- **Review_3_Result**: Replaced 2-hour gym routines with 40-min park workouts!
+- **Review_3_Text**: "Best investment I made this year. High energy, zero joint pain, and incredible definition in my shoulders and core. Highly recommended for busy professionals."
+
+## [PRICING_AND_PROGRAMS]
+[BADGE: CHOOSE YOUR PATH]
+[TITLE: Coaching Packages Tailored to Your Ambition]
+[SUBTITLE: All programs include 24/7 direct messaging, customized video technique audits, and tailored nutrition guidance.]
+- **Tier_1_Name**: The Digital Protocol (Self-Guided + Group)
+- **Tier_1_Price**: $97 / month
+- **Tier_1_Desc**: Perfect for self-starters who want structured progressions and community support.
+- **Tier_1_Feature_1**: Full 12-Week Interactive Video Workout Roadmap
+- **Tier_1_Feature_2**: Weekly Group Q&A & Video Form Check Calls
+- **Tier_1_Feature_3**: Mobility & Joint Armor Video Vault
+- **Tier_1_CTA**: Start 7-Day Trial
+
+- **Tier_2_Name**: VIP 1-on-1 Mentorship (Most Popular)
+- **Tier_2_Price**: $297 / month
+- **Tier_2_Desc**: Comprehensive hands-on private coaching for guaranteed breakthrough results.
+- **Tier_2_Feature_1**: Daily 1-on-1 WhatsApp & Video Technique Reviews
+- **Tier_2_Feature_2**: 100% Custom Periodized Programming Updated Weekly
+- **Tier_2_Feature_3**: Personalized High-Performance Bio-Nutrition Plan
+- **Tier_2_CTA**: Claim Your VIP Spot
+
+## [FAQ_SECTION]
+[BADGE: FREQUENTLY ASKED QUESTIONS]
+[TITLE: Everything You Need to Know Before Starting]
+- **FAQ_1_Q**: Do I need expensive gym equipment or Olympic rings right away?
+- **FAQ_1_A**: Not at all! You can start with zero equipment—just floor space and a doorway pull-up bar or local park. We guide you on when and how to introduce gymnastic rings or resistance bands as you progress.
+- **FAQ_2_Q**: What if I have never done a single pull-up or push-up in my life?
+- **FAQ_2_A**: That is exactly where many of our clients begin. Our scaling framework uses eccentric control, band assistance, and structural holds to get you to your first clean rep safely within weeks.
+- **FAQ_3_Q**: How much time per week do I need to commit?
+- **FAQ_3_A**: Just 3 to 4 sessions per week, lasting 40 to 45 minutes each. Because calisthenics engages high neuromuscular compound movements, short focused workouts deliver superior results compared to long isolation gym sessions.
+- **FAQ_4_Q**: How does the application and onboarding process work?
+- **FAQ_4_A**: Once you submit the brief application below, Alex will review your goals and schedule a free 15-minute diagnostic video call. If we are a mutual fit, your customized onboarding portal opens immediately.
+
+## [FINAL_CTA_SECTION]
+[BADGE: YOUR TRANSFORMATION BEGINS TODAY]
+[TITLE: Ready to Defy Gravity and Own Your Physique?]
+[SUBTITLE: Stop guessing your training. Apply for private mentorship today or download our free 7-Day Body Mastery Blueprint.]
+[PRIMARY_CTA_LABEL: Apply Now For 1-on-1 Mentorship]
+[SECONDARY_CTA_LABEL: Get Free 7-Day Starter Guide]
+
+## [FOOTER_SECTION]
+[COPYRIGHT: © 2026 Vance Calisthenics Academy. All Rights Reserved.]
+[DISCLAIMER: Consult with your physician before beginning any new exercise protocol. Results vary based on adherence and individual physiology.]
+[SOCIAL_INSTAGRAM: https://instagram.com]
+[SOCIAL_YOUTUBE: https://youtube.com]
+[SOCIAL_TIKTOK: https://tiktok.com]

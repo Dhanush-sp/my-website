@@ -1,0 +1,6 @@
+{
+  "name": "Vance Calisthenics Academy",
+  "description": "High-converting social traffic landing page for solo calisthenics coach with live content.txt decoupled runtime engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
